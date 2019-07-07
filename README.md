@@ -1,4 +1,5 @@
 
+
 # 逗比脚本备份
 
 ssr.sh
@@ -23,7 +24,7 @@ ssr.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
 ssrmu.sh
@@ -49,7 +50,7 @@ ssrmu.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
 
 ssr_check.sh
@@ -61,7 +62,7 @@ ssr_check.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ssr_check.sh && chmod +x ssr_check.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ssr_check.sh && chmod +x ssr_check.sh
 ```
 
 ssrstatus.sh
@@ -73,7 +74,7 @@ ssrstatus.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus
 ```
 
 ssr_ip_check.sh
@@ -85,7 +86,7 @@ ssr_ip_check.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ssr_ip_check.sh && chmod +x ssr_ip_check.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ssr_ip_check.sh && chmod +x ssr_ip_check.sh
 ```
 
 bbr.sh
@@ -97,7 +98,7 @@ bbr.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
 ```
 
 brook.sh
@@ -109,7 +110,7 @@ brook.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/brook.sh && chmod +x brook.sh && bash brook.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/brook.sh && chmod +x brook.sh && bash brook.sh
 ```
 
 goflyway.sh
@@ -121,7 +122,7 @@ goflyway.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/goflyway.sh && chmod +x goflyway.sh && bash goflyway.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/goflyway.sh && chmod +x goflyway.sh && bash goflyway.sh
 ```
 
 mtproxy.sh
@@ -133,7 +134,7 @@ mtproxy.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
 lightsocks.sh
@@ -145,7 +146,7 @@ lightsocks.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/lightsocks.sh && chmod +x lightsocks.sh && bash lightsocks.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/lightsocks.sh && chmod +x lightsocks.sh && bash lightsocks.sh
 ```
 
 pipes.sh
@@ -169,7 +170,7 @@ dowsdns.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/dowsdns.sh && chmod +x dowsdns.sh && bash dowsdns.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/dowsdns.sh && chmod +x dowsdns.sh && bash dowsdns.sh
 ```
 
 caddy_install.sh
@@ -181,9 +182,9 @@ caddy_install.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 # 卸载命令：
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/caddy_install.sh && chmod +x caddy_install.sh && caddy_install.sh uninstall
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/caddy_install.sh && chmod +x caddy_install.sh && caddy_install.sh uninstall
 ```
 
 cloudt.sh
@@ -196,7 +197,7 @@ cloudt.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/cloudt.sh && chmod +x cloudt.sh && bash cloudt.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/cloudt.sh && chmod +x cloudt.sh && bash cloudt.sh
 ```
 
 pserver.sh
@@ -209,7 +210,7 @@ pserver.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/pserver.sh && chmod +x pserver.sh && bash pserver.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/pserver.sh && chmod +x pserver.sh && bash pserver.sh
 ```
 
 aria2.sh
@@ -221,7 +222,7 @@ aria2.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
 ```
 
 ssh_port.sh
@@ -233,7 +234,7 @@ ssh_port.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ssh_port.sh && chmod +x ssh_port.sh && bash ssh_port.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ssh_port.sh && chmod +x ssh_port.sh && bash ssh_port.sh
 ```
 
 ocserv.sh
@@ -245,7 +246,7 @@ ocserv.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
 
 gogo.sh
@@ -257,7 +258,7 @@ gogo.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/gogo.sh && chmod +x gogo.sh && bash gogo.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/gogo.sh && chmod +x gogo.sh && bash gogo.sh
 ```
 
 brook-pf.sh
@@ -269,7 +270,7 @@ brook-pf.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/brook-pf.sh && chmod +x brook-pf.sh && bash brook-pf.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/brook-pf.sh && chmod +x brook-pf.sh && bash brook-pf.sh
 ```
 
 socat.sh
@@ -281,7 +282,7 @@ socat.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/socat.sh && chmod +x socat.sh && bash socat.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/socat.sh && chmod +x socat.sh && bash socat.sh
 ```
 
 tinymapper.sh
@@ -293,7 +294,7 @@ tinymapper.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/tinymapper.sh && chmod +x tinymapper.sh && bash tinymapper.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/tinymapper.sh && chmod +x tinymapper.sh && bash tinymapper.sh
 ```
 
 haproxy.sh
@@ -305,7 +306,7 @@ haproxy.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/haproxy.sh && chmod +x haproxy.sh && bash haproxy.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/haproxy.sh && chmod +x haproxy.sh && bash haproxy.sh
 ```
 
 iptables-pf.sh
@@ -317,7 +318,7 @@ iptables-pf.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
 ```
 
 status.sh
@@ -329,7 +330,7 @@ status.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/status.sh && chmod +x status.sh && bash status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/status.sh && chmod +x status.sh && bash status.sh
 ```
 
 pythonhttp.sh
@@ -341,7 +342,7 @@ pythonhttp.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/pythonhttp.sh && chmod +x pythonhttp.sh && bash pythonhttp.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/pythonhttp.sh && chmod +x pythonhttp.sh && bash pythonhttp.sh
 ```
 
 adbyby.sh
@@ -353,7 +354,7 @@ adbyby.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/adbyby.sh && chmod +x adbyby.sh && bash adbyby.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/adbyby.sh && chmod +x adbyby.sh && bash adbyby.sh
 ```
 
 libsodium.sh
@@ -365,7 +366,7 @@ libsodium.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/libsodium.sh && chmod +x libsodium.sh && bash libsodium.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/libsodium.sh && chmod +x libsodium.sh && bash libsodium.sh
 ```
 
 ban_iptables.sh
@@ -377,7 +378,7 @@ ban_iptables.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh
 ```
 
 Get_Out_Spam.sh
