@@ -1,3 +1,4 @@
+
 # 一个逗比写的逗比脚本
 
 ssr.sh
@@ -388,7 +389,7 @@ Get_Out_Spam.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/doubi-1/master/Get_Out_Spam.sh && chmod +x Get_Out_Spam.sh && bash Get_Out_Spam.sh add
+wget -N --no-check-certificate https://raw.githubusercontent.com/pansongjun/fqjb/master/Get_Out_Spam.sh && chmod +x Get_Out_Spam.sh && bash Get_Out_Spam.sh add
 # 卸载
 bash Get_Out_Spam.sh del
 ```
